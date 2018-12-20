@@ -6,8 +6,6 @@ a test for jitpack
 
 ``````
 
-dependencies {
-	        implementation 'com.github.usherjc:UsherChenJitPack:Tag'
-	}
+dependencies { implementation 'com.github.usherjc:UsherChenJitPack:Tag'	}
 
 ``````
